@@ -4,5 +4,12 @@
   "@type":"Person",
   "displayName":"Connor Turland",
   "image":"https://pbs.twimg.com/profile_images/436050101539065856/QMGlzCUn_400x400.jpeg",
-  "url":"http://facebook.com/connor.turland"
+  "url":"http://facebook.com/connor.turland",
+  "knows": [
+    {
+      "type": "Person",
+      "name": "elf Pavlik",
+      "id": "https://raw.githubusercontent.com/elf-pavlik/webprofiled/master/test/fixtures/perpetual-tripper/index.json"
+    } 
+  ]
 }
