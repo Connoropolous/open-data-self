@@ -1,1 +1,8 @@
-{"@context":"https://rawgit.com/valueflows/agent/master/context.jsonld","@id":"https://raw.githubusercontent.com/Connoropolous/open-data-self/master/data.json","@type":"Person","displayName":"Connor Turland","image":"https://pbs.twimg.com/profile_images/436050101539065856/QMGlzCUn_400x400.jpeg","url":"http://facebook.com/connor.turland"}
+{
+  "@context":"https://rawgit.com/valueflows/agent/master/context.jsonld",
+  "@id":"https://raw.githubusercontent.com/Connoropolous/open-data-self/master/data.json",
+  "@type":"Person",
+  "displayName":"Connor Turland",
+  "image":"https://pbs.twimg.com/profile_images/436050101539065856/QMGlzCUn_400x400.jpeg",
+  "url":"http://facebook.com/connor.turland"
+}
