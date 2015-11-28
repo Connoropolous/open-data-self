@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "http://schema.org/",
     "foaf": "http://xmlns.com/foaf/0.1/",
-    "id": "@id"
+    "id": "@id",
     "type": "@type"
   },
   "id":"https://raw.githubusercontent.com/Connoropolous/open-data-self/master/data.json",
